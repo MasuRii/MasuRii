@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer from the Philippines</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=radical&margin-w=15&margin-h=15" alt="masurii" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=default&margin-w=15&margin-h=15" alt="masurii" />
 </p>
 
 ---
@@ -29,12 +29,12 @@
 ### 📊 My GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&locale=en&theme=radical&count_private=true" alt="masurii's GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&locale=en&theme=default&count_private=true" alt="masurii's GitHub stats" />
       <!-- Optional: Add space between stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&locale=en&theme=radical" alt="masurii's Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&locale=en&theme=default" alt="masurii's Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=radical" alt="masurii's GitHub streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=default" alt="masurii's GitHub streak" />
 </p>
 
 ---
