@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [CITU Course Scheduler](https://github.com/MasuRii/CITCourseBuilder)
 
-- 💬 Ask me about **react, springboot, kotlin jetbrain compose**
+- 💬 Ask me about **react, springboot, kotlin (jetbrain compose)**
 
 - 📫 How to reach me **kanjiharigana@gmail.com**
 
