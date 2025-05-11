@@ -17,7 +17,7 @@
 
 ### 📌 Quick Overview:
 
-- 🔭 **Currently Working On:** [AudioScholar](https://github.com/MasuRii/IT342-G3-AudioScholar)
+- 🔭 **Currently Working On:** [CITU Course Scheduler](https://github.com/MasuRii/CITCourseBuilder)
 - 🌱 **Currently Learning:** ServiceNow Integration with Generative AI
 - 👯 **Looking to Collaborate On:** [CITU Course Scheduler](https://github.com/MasuRii/CITCourseBuilder)
 - 🤔 **Ask me about:** React, Spring Boot, Kotlin (especially Jetpack Compose), REST APIs, and building full-stack applications.
