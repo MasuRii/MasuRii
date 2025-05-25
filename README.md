@@ -27,7 +27,7 @@
 
 ### 🎯 My Current Focus & Aspirations:
 
-- 🔭 **Currently Working On:** [CITU Course Builder](https://github.com/MasuRii/CITCourseBuilder) - *Aiming to streamline curriculum creation.*
+- 🔭 **Currently Working On:** [FB Scrape Ideas](https://github.com/MasuRii/FBScrapeIdeas) - *AI-powered CLI tool to scrape Facebook group posts, categorize them using Google's Gemini, and uncover insights for academic research or idea generation.*
 - 🌱 **Currently Learning:** Advanced web scraping techniques (e.g., Python with Playwright/Selenium) & practical applications of Large Language Model (LLM) APIs.
 - 🤝 **Open to Collaborating On:** Innovative full-stack projects, especially those involving AI or educational technology.
 - 🤔 **Let's Talk About:** `React`, `Spring Boot`, `Kotlin (Jetpack Compose)`, `RESTful APIs`, `Full-Stack Architecture`, or the evolving landscape of `Generative AI` in software.
