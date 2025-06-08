@@ -27,7 +27,7 @@
 
 ### 🎯 My Current Focus & Aspirations:
 
-- 🔭 **Currently Working On:** [AutoWiki](https://github.com/MasuRii/auto-story-wiki) - *AutoWiki is a desktop application that automatically processes ePub files to generate Fandom-style wikis with structured content about book elements (characters, places, story arcs) and AI-generated images.*
+- 🔭 **Currently Working On:** []() - *
 - 🌱 **Currently Learning:** Advanced web scraping techniques (e.g., Python with Playwright/Selenium) & practical applications of Large Language Model (LLM) APIs.
 - 🤝 **Open to Collaborating On:** Innovative full-stack projects, especially those involving AI or educational technology.
 - 🤔 **Let's Talk About:** `React`, `Spring Boot`, `Kotlin (Jetpack Compose)`, `RESTful APIs`, `Full-Stack Architecture`, or the evolving landscape of `Generative AI` in software.
