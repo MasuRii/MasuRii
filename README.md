@@ -27,13 +27,13 @@
 
 ### 🎯 My Current Focus & Aspirations:
 
-- 🔭 **Currently Working On:** []() - *
-- 🌱 **Currently Learning:** Advanced web scraping techniques (e.g., Python with Playwright/Selenium) & practical applications of Large Language Model (LLM) APIs.
-- 🤝 **Open to Collaborating On:** Innovative full-stack projects, especially those involving AI or educational technology.
-- 🤔 **Let's Talk About:** `React`, `Spring Boot`, `Kotlin (Jetpack Compose)`, `RESTful APIs`, `Full-Stack Architecture`, or the evolving landscape of `Generative AI` in software.
+- 🔭 **Currently Working On:** [WTR Lab Term Inconsistency Finder](https://github.com/MasuRii/wtr-term-inconsistency-finder) - Advanced userscript with AI-powered analysis, modular architecture, and dual-platform distribution
+- 🌱 **Currently Learning:** Advanced userscript development techniques, modular JavaScript architecture, webpack bundling for userscripts, and Greasy Fork compliance best practices
+- 🤝 **Open to Collaborating On:** Innovative userscript projects, full-stack applications with AI integration, or educational technology solutions
+- 🤔 **Let's Talk About:** `Userscript Development`, `Modular JavaScript Architecture`, `Webpack Bundling`, `ES6 Modules`, `Tampermonkey/Violentmonkey`, `Greasy Fork Distribution`, `React`, `Spring Boot`, `Kotlin (Jetpack Compose)`, `RESTful APIs`, `Full-Stack Architecture`, or the evolving landscape of `Generative AI` in software
 - 📫 **Get in Touch:**
-    - Personal: [kanjiharigana@gmail.com](mailto:kanjiharigana@gmail.com)
-    - University: [mathlee.biacolo@cit.edu](mailto:mathlee.biacolo@cit.edu)
+  - Personal: [mathlee.biacolo@proton.me](mailto:mathlee.biacolo@proton.me)
+  - University: [mathlee.biacolo@cit.edu](mailto:mathlee.biacolo@cit.edu)
 - ⚡ **Fun Fact:** I believe coffee is not just a drink, it's a catalyst for productivity and good code! ☕
 
 ---
@@ -80,9 +80,11 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/ve761bca974e16662f27aa8810df6d144acde5bdbeeca0dfd50e25f86621eaa19/firebase/images/lockup.svg" alt="Firebase" width="100" height="30"/></a> <!-- Adjusted size for Firebase lockup logo -->
   <br/>
-  <strong>Others & Tools:</strong> 
+  <strong>Others & Tools:</strong>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/></a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
@@ -98,7 +100,7 @@
   Feel free to reach out!
 </p>
 <p align="center">
-  <a href="mailto:kanjiharigana@gmail.com" target="_blank">
+  <a href="mailto:mathlee.biacolo@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (Personal)"/>
   </a>
    
