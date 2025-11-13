@@ -1,55 +1,87 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
-  Hi there! I'm MasuRii Math Lee
+  Hi, I'm <strong>MasuRii Math Lee</strong> 👋
 </h1>
 
 <h3 align="center">
-  A Full Stack Developer 🇵🇭 | Building Innovative Solutions | Exploring Generative AI
+  Full-Stack Developer 🇵🇭 | Generative AI Enthusiast | Building Smarter Tools with Code & AI
 </h3>
 
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=default&margin-w=15&margin-h=15&no-frame=true&column=7" alt="masurii's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=7&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  I'm passionate about building efficient, user-friendly web & mobile applications that solve real-world problems.
+  I craft <strong>scalable web & mobile apps</strong> that blend clean code with real-world impact.  
   <br>
-  My current focus involves diving deep into <strong>Generative AI</strong> and its integration with enterprise solutions – always eager to learn and innovate!
+  Currently obsessed with <strong>Generative AI integration</strong>, userscript architecture, and modular JavaScript ecosystems.
   <br>
-  <em>When I'm not coding, you'll probably find me with a cup of coffee ☕ – it's essential to my workflow!</em>
+  <em>Powered by curiosity, coffee ☕, and a terminal.</em>
 </p>
 
 ---
 
-### 🎯 My Current Focus & Aspirations:
+### 🎯 What I'm Up To (2025 Edition)
 
-- 🔭 **Currently Working On:** [WTR Lab Term Inconsistency Finder](https://github.com/MasuRii/wtr-term-inconsistency-finder) - Advanced userscript with AI-powered analysis, modular architecture, and dual-platform distribution
-- 🌱 **Currently Learning:** Advanced userscript development techniques, modular JavaScript architecture, webpack bundling for userscripts, and Greasy Fork compliance best practices
-- 🤝 **Open to Collaborating On:** Innovative userscript projects, full-stack applications with AI integration, or educational technology solutions
-- 🤔 **Let's Talk About:** `Userscript Development`, `Modular JavaScript Architecture`, `Webpack Bundling`, `ES6 Modules`, `Tampermonkey/Violentmonkey`, `Greasy Fork Distribution`, `React`, `Spring Boot`, `Kotlin (Jetpack Compose)`, `RESTful APIs`, `Full-Stack Architecture`, or the evolving landscape of `Generative AI` in software
-- 📫 **Get in Touch:**
-  - Personal: [mathlee.biacolo@proton.me](mailto:mathlee.biacolo@proton.me)
-  - University: [mathlee.biacolo@cit.edu](mailto:mathlee.biacolo@cit.edu)
-- ⚡ **Fun Fact:** I believe coffee is not just a drink, it's a catalyst for productivity and good code! ☕
+- 🔭 **Building:** A suite of AI-powered userscripts for WTR-Lab.com – enhancing translation workflows, image generation, and reading experiences with modular Webpack builds and Gemini/OpenAI integrations.
+- 🚀 **Latest Projects:**
+  - **[WTR Lab Term Inconsistency Finder](https://github.com/MasuRii/wtr-term-inconsistency-finder)**  
+    → AI-driven detection of translation inconsistencies using Google Gemini API, with multi-key rotation, deep analysis iterations, and seamless integration with term replacer.
+  - **[WTR Lab Novel Image Generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)**  
+    → Text-to-image magic for web novels: Select text, enhance prompts via Gemini, and generate via Pollinations/AI Horde/OpenAI – over 100 art styles and history tracking included.
+  - **[WTR Lab Term Replacer](https://github.com/MasuRii/wtr-lab-term-replacer)**  
+    → Modular replacer with ES6 modules, dual-build system for GreasyFork, hot-reloading, regex matching, and persistent state management.
+  - **[WTR Lab Enhancer](https://github.com/MasuRii/wtr-lab-enhancer)**  
+    → UI tweaks for better reading: Custom fonts from Google Fonts, adjustable layouts, element hiding, and mobile-optimized controls (v1.0.0).
+- 🌱 **Learning:** 
+  - Advanced **ESBuild + Rollup** for userscripts
+  - **AI prompt engineering** for code-aware analysis
+  - **TypeScript adoption** in Tampermonkey ecosystem
+- 💡 **Exploring:** 
+  - Local LLMs via **Ollama** for offline userscript enhancements
+  - **WebAssembly** for high-performance frontend logic
+- 🤝 **Open to Collaborate On:** 
+  - AI-augmented browser tools
+  - Full-stack apps with **React + Spring Boot + AI backend**
+  - EdTech platforms or open-source userscripts
+- 💬 **Ask Me About:**  
+  `Userscripts` • `Modular JS` • `Webpack/ESBuild` • `Tampermonkey` • `Greasy Fork` • `React` • `Spring Boot` • `Kotlin Compose` • `GenAI APIs` • `Prompt Engineering`
 
 ---
 
-### 📈 My GitHub Stats & Activity:
+### 📫 Let's Connect
 
-<!-- These stats auto-update! -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true&line_height=28" alt="masurii's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&locale=en&theme=default&hide_border=true&langs_count=8" alt="masurii's Top Languages" height="180em" />
+  <a href="mailto:mathlee.biacolo@proton.me">
+    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  &nbsp;
+  <a href="mailto:mathlee.biacolo@cit.edu">
+    <img src="https://img.shields.io/badge/CIT--U%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="University Email"/>
+  </a>
 </p>
+
+> ⚡ **Fun Fact:** I once debugged a userscript at 3 AM… fueled by *three* cups of coffee and pure determination. ☕💻
+
+---
+
+### 📊 GitHub Stats (Auto-Updated)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=default&hide_border=true" alt="masurii's GitHub streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&langs_count=10" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasuRii&theme=default&hide_border=true" alt="MasuRii's GitHub Profile Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasuRii&theme=react&hide_border=true" alt="Profile Summary"/>
 </p>
 
 ---
@@ -92,29 +124,24 @@
 
 ---
 
-### 🌐 Let's Connect & Collaborate:
+### 🌐 Find Me Around the Web
 
 <p align="center">
-  I'm always open to discussing new projects, creative ideas, or opportunities to contribute to something meaningful.
-  <br>
-  Feel free to reach out!
-</p>
-<p align="center">
-  <a href="mailto:mathlee.biacolo@proton.me" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (Personal)"/>
+  <a href="https://www.linkedin.com/in/math-lee-biacolo-729287190" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-   
-  <a href="mailto:mathlee.biacolo@cit.edu" target="_blank">
-    <img src="https://img.shields.io/badge/University%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email (CIT-U)"/>
+  &nbsp;
+  <a href="https://greasyfork.org/en/users/1433142-masuriii" target="_blank">
+    <img src="https://img.shields.io/badge/Greasy%20Fork-7D4698?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=0e75b6&style=flat" alt="masurii profile views" />
+  <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
-  <em>Thanks for stopping by! I'm open to connecting and collaborating.</em>
+  <em>Thanks for visiting! Let's build something awesome together. 🚀</em>
 </p>
