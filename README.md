@@ -127,10 +127,6 @@
 ### 🌐 Find Me Around the Web
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/math-lee-biacolo-729287190" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
   <a href="https://greasyfork.org/en/users/1433142-masuriii" target="_blank">
     <img src="https://img.shields.io/badge/Greasy%20Fork-7D4698?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
   </a>
