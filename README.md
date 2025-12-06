@@ -31,14 +31,6 @@
   - **[AudioScholar](https://github.com/MasuRii/AudioScholar)**  
     → Currently revitalizing and refactoring this 1-year-old academic project. It serves as a comprehensive audio-learning platform backbone, leveraging **Java** and **Spring Boot**.
 
-- 🤖 **Agentic AI Tooling:**
-  - **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** & **[gemini-cli-openai-rotating](https://github.com/MasuRii/gemini-cli-openai-rotating)**
-    → Actively maintaining these forks to power my daily agentic coding. These tools handle API rotation and proxying for **Gemini** and **OpenAI**, allowing me to code faster despite hardware limitations.
-  - **[LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** *(Forked)*
-    → A self-hosted resilience layer and API proxy that I use to manage access to multiple LLM providers. Handles key rotation, rate limiting, and unified API access, ensuring my autonomous agents remain operational even during provider outages.
-  - **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)**
-    → A GitHub Actions-based AI mentorship bot that acts as a wise sensei for repositories. Automates PR reviews, issue analysis, and compliance checks using the **OpenCode** engine, featuring incremental review logic and an educational persona. *(Inspired by [Mirrobot-agent](https://github.com/Mirrowel/Mirrobot-agent))*.
-
 - 📱 **Mobile Development:**
   - **[ph-fare-calculator](https://github.com/MasuRii/ph-fare-calculator)**
     → A production-ready **Flutter** app that estimates public transport costs across the Philippines. Features a hybrid calculation engine (OSRM + Static Matrices) to handle complex localized pricing for Jeepneys, Buses, Trains, and Ferries. Includes offline support and discount calculations.
