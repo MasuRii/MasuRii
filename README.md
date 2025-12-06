@@ -31,15 +31,27 @@
   - **[AudioScholar](https://github.com/MasuRii/AudioScholar)**  
     → Currently revitalizing and refactoring this 1-year-old academic project. It serves as a comprehensive audio-learning platform backbone, leveraging **Java** and **Spring Boot**.
 
-- 🤖 **Agentic AI Tooling:** 
-  - **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** & **[gemini-cli-openai-rotating](https://github.com/MasuRii/gemini-cli-openai-rotating)**  
+- 🤖 **Agentic AI Tooling:**
+  - **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** & **[gemini-cli-openai-rotating](https://github.com/MasuRii/gemini-cli-openai-rotating)**
     → Actively maintaining these forks to power my daily agentic coding. These tools handle API rotation and proxying for **Gemini** and **OpenAI**, allowing me to code faster despite hardware limitations.
+  - **[LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** *(Forked)*
+    → A self-hosted resilience layer and API proxy that I use to manage access to multiple LLM providers. Handles key rotation, rate limiting, and unified API access, ensuring my autonomous agents remain operational even during provider outages.
+  - **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)**
+    → A GitHub Actions-based AI mentorship bot that acts as a wise sensei for repositories. Automates PR reviews, issue analysis, and compliance checks using the **OpenCode** engine, featuring incremental review logic and an educational persona. *(Inspired by [Mirrobot-agent](https://github.com/Mirrowel/Mirrobot-agent))*.
 
 - 📱 **Mobile Development:**
-  - **[ph-fare-estimator](https://github.com/MasuRii/ph-fare-estimator)**  
-    → A new cross-platform mobile experiment built with **Flutter, Dart, and Gradle**. Designed to estimate transport fares in the Philippines. *(Status: Paused temporarily to focus on AudioScholar)*.
+  - **[ph-fare-calculator](https://github.com/MasuRii/ph-fare-calculator)**
+    → A production-ready **Flutter** app that estimates public transport costs across the Philippines. Features a hybrid calculation engine (OSRM + Static Matrices) to handle complex localized pricing for Jeepneys, Buses, Trains, and Ferries. Includes offline support and discount calculations.
 
-- 🌱 **Learning:** 
+- 🛒 **E-Commerce & Web Development:**
+  - **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)**
+    → A **Next.js 16 + Sanity.io** e-commerce platform tailored for the Philippine market. Features a "Checkout to Messenger" workflow that bridges automated shopping with personalized direct-message transactions (WhatsApp/Messenger). Includes a full product catalog, persistent cart, and embedded Sanity Studio for inventory management.
+
+- 🎬 **Automation & Tooling:**
+  - **[Spectator](https://github.com/MasuRii/Spectator)** *(Private)*
+    → A specialized **Node.js** toolkit for distributed YouTube browser automation, focusing on stealth and realistic playback simulation. Features an advanced self-healing proxy system and a behavior engine using Bezier curves to mimic organic human interaction.
+
+- 🌱 **Learning:**
   - **Agentic Workflows:** Mastering the integration of **Playwright** and **Python** for automated browser tasks.
   - **Jetpack Compose & Kotlin:** Modernizing Android UI development.
   - **Flutter & Dart:** Expanding into cross-platform mobile ecosystems.
@@ -48,8 +60,8 @@
   - Maximizing **External API** limits for AI coding (Gemini/OpenAI) on low-spec hardware.
   - **Spring Boot** optimization for academic scale.
 
-- 💬 **Ask Me About:**  
-  `Spring Boot` • `React` • `Flutter/Dart` • `Agentic Coding` • `GenAI APIs` • `Userscripts` • `Android (Kotlin/Java)`
+- 💬 **Ask Me About:**
+  `Spring Boot` • `React` • `Next.js` • `Flutter/Dart` • `Agentic Coding` • `GenAI APIs` • `Userscripts` • `Android (Kotlin/Java)` • `Browser Automation`
 
 ---
 
