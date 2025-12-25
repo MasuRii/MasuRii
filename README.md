@@ -27,13 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <a href="https://github.com/MasuRii">
-    <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ---
 
 ## About
@@ -86,18 +79,11 @@ I build practical tools that solve real problems—public transport fare calcula
 <summary><b>🚀 Production Applications</b></summary>
 <br>
 
-<a href="https://github.com/MasuRii/PH-Fare-Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=PH-Fare-Calculator&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/MasuRii/Luv-Charms-E-commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=Luv-Charms-E-commerce&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 | Project | Live Demo | Description |
 |---------|-----------|-------------|
-| **PH-Fare-Calculator** | — | Flutter app for Philippine transport fare estimation with offline support |
-| **Luv-Charms-E-commerce** | [Visit](https://luv-charms-e-commerce.vercel.app) | Next.js storefront with Messenger checkout workflow |
-| **CITUCourseBuilder** | [Visit](https://masurii.github.io/CITUCourseBuilder/) | Schedule planner for CIT-U students |
+| [**PH-Fare-Calculator**](https://github.com/MasuRii/PH-Fare-Calculator) | — | Flutter app for Philippine transport fare estimation with offline support |
+| [**Luv-Charms-E-commerce**](https://github.com/MasuRii/Luv-Charms-E-commerce) | [Visit](https://luv-charms-e-commerce.vercel.app) | Next.js storefront with Messenger checkout workflow |
+| [**CITUCourseBuilder**](https://github.com/MasuRii/CITUCourseBuilder) | [Visit](https://masurii.github.io/CITUCourseBuilder/) | Schedule planner for CIT-U students |
 
 </details>
 
@@ -105,18 +91,11 @@ I build practical tools that solve real problems—public transport fare calcula
 <summary><b>🤖 AI/LLM Infrastructure</b></summary>
 <br>
 
-<a href="https://github.com/MasuRii/AIstudioProxyAPI-EN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=AIstudioProxyAPI-EN&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/MasuRii/MasuSenseiBotV3-Agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=MasuSenseiBotV3-Agent&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 | Project | Tech | Description |
 |---------|------|-------------|
-| **AIstudioProxyAPI-EN** | Python, FastAPI | OpenAI-compatible proxy for Google AI Studio |
-| **MasuSenseiBotV3-Agent** | Python, GitHub Actions | AI mentorship bot for automated PR reviews |
-| **FBScrapeIdeas** | Python, Selenium | Facebook group scraper with AI categorization |
+| [**AIstudioProxyAPI-EN**](https://github.com/MasuRii/AIstudioProxyAPI-EN) | Python, FastAPI | OpenAI-compatible proxy for Google AI Studio |
+| [**MasuSenseiBotV3-Agent**](https://github.com/MasuRii/MasuSenseiBotV3-Agent) | Python, GitHub Actions | AI mentorship bot for automated PR reviews |
+| [**FBScrapeIdeas**](https://github.com/MasuRii/FBScrapeIdeas) | Python, Selenium | Facebook group scraper with AI categorization |
 
 </details>
 
@@ -124,14 +103,10 @@ I build practical tools that solve real problems—public transport fare calcula
 <summary><b>📚 Academic & Completed</b></summary>
 <br>
 
-<a href="https://github.com/MasuRii/AudioScholar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=AudioScholar&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
 | Project | Tech | Status |
 |---------|------|--------|
-| **AudioScholar** | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
-| **QuickFix-PH** | HTML | Hackathon Project |
+| [**AudioScholar**](https://github.com/MasuRii/AudioScholar) | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
+| [**QuickFix-PH**](https://github.com/MasuRii/QuickFix-PH) | HTML | Hackathon Project |
 
 </details>
 
@@ -142,8 +117,8 @@ I build practical tools that solve real problems—public transport fare calcula
 | Project | Description |
 |---------|-------------|
 | **Spectator** *(Private)* | Distributed browser automation with self-healing proxy system |
-| **wtr-lab-novel-image-generator** | AI-powered image generation userscript for web novels |
-| **zero-zerogpt** | AI content detector bypass technique |
+| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | AI-powered image generation userscript for web novels |
+| [**zero-zerogpt**](https://github.com/MasuRii/zero-zerogpt) | AI content detector bypass technique |
 
 </details>
 
@@ -152,9 +127,15 @@ I build practical tools that solve real problems—public transport fare calcula
 ## Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/sst%2Fopencode-Issues%20%26%20Discussions-blue?style=for-the-badge&logo=github" alt="opencode" />
-  <img src="https://img.shields.io/badge/Mirrowel%2FLLM--API--Key--Proxy-PR%20Contributor-green?style=for-the-badge&logo=github" alt="LLM-API-Key-Proxy" />
-  <img src="https://img.shields.io/badge/DedInc%2Fgamma--ai--watermark--remover-Feature%20Added-orange?style=for-the-badge&logo=github" alt="gamma-ai" />
+  <a href="https://github.com/sst/opencode/issues?q=author%3AMasuRii">
+    <img src="https://img.shields.io/badge/sst%2Fopencode-Issues%20%26%20Discussions-blue?style=for-the-badge&logo=github" alt="opencode" />
+  </a>
+  <a href="https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii">
+    <img src="https://img.shields.io/badge/Mirrowel%2FLLM--API--Key--Proxy-PR%20Contributor-green?style=for-the-badge&logo=github" alt="LLM-API-Key-Proxy" />
+  </a>
+  <a href="https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii">
+    <img src="https://img.shields.io/badge/DedInc%2Fgamma--ai--watermark--remover-Feature%20Added-orange?style=for-the-badge&logo=github" alt="gamma-ai" />
+  </a>
 </p>
 
 ---
@@ -162,12 +143,22 @@ I build practical tools that solve real problems—public transport fare calcula
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=a78bfa&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=a78bfa&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=a78bfa&count_private=true" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=8" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=a78bfa&fire=f97316&currStreakLabel=667eea" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=masurii&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=a78bfa&fire=f97316&currStreakLabel=667eea" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
