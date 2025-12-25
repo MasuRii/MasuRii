@@ -95,7 +95,6 @@ I build practical tools that solve real problems—public transport fare calcula
 |---------|------|-------------|
 | [**AIstudioProxyAPI-EN**](https://github.com/MasuRii/AIstudioProxyAPI-EN) | Python, FastAPI | OpenAI-compatible proxy for Google AI Studio |
 | [**MasuSenseiBotV3-Agent**](https://github.com/MasuRii/MasuSenseiBotV3-Agent) | Python, GitHub Actions | AI mentorship bot for automated PR reviews |
-| [**FBScrapeIdeas**](https://github.com/MasuRii/FBScrapeIdeas) | Python, Selenium | Facebook group scraper with AI categorization |
 
 </details>
 
@@ -106,6 +105,8 @@ I build practical tools that solve real problems—public transport fare calcula
 | Project | Tech | Status |
 |---------|------|--------|
 | [**AudioScholar**](https://github.com/MasuRii/AudioScholar) | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
+| [**CampusNavigator**](https://github.com/MasuRii/CampusNavigator) | Java, JavaScript | ✅ CSIT321 Final Project |
+| [**ItemExchangeApplication**](https://github.com/MasuRii/ItemExchangeApplication) | Python, HTML, CSS | ✅ Community Bartering System |
 | [**QuickFix-PH**](https://github.com/MasuRii/QuickFix-PH) | HTML | Hackathon Project |
 
 </details>
@@ -117,8 +118,22 @@ I build practical tools that solve real problems—public transport fare calcula
 | Project | Description |
 |---------|-------------|
 | **Spectator** *(Private)* | Distributed browser automation with self-healing proxy system |
-| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | AI-powered image generation userscript for web novels |
+| [**FBScrapeIdeas**](https://github.com/MasuRii/FBScrapeIdeas) | Facebook group scraper with AI categorization |
 | [**zero-zerogpt**](https://github.com/MasuRii/zero-zerogpt) | AI content detector bypass technique |
+
+</details>
+
+<details>
+<summary><b>📖 WTR Lab Userscripts</b></summary>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | AI-powered image generation with 100+ art styles |
+| [**wtr-lab-novel-reviewer**](https://github.com/MasuRii/wtr-lab-novel-reviewer) | Chapter review and rating system |
+| [**wtr-lab-term-replacer**](https://github.com/MasuRii/wtr-lab-term-replacer) | Modular term replacement with Webpack build system |
+| [**wtr-term-inconsistency-finder**](https://github.com/MasuRii/wtr-term-inconsistency-finder) | Translation inconsistency detection using Gemini AI |
+| [**wtr-lab-enhancer**](https://github.com/MasuRii/wtr-lab-enhancer) | Reading experience enhancements |
 
 </details>
 
