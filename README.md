@@ -1,156 +1,196 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
-  Hi, I'm <strong>MasuRii Math Lee</strong> 👋
-</h1>
+<!-- Dynamic Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
 
-<h3 align="center">
-  Full-Stack Developer 🇵🇭 | AI Agentic Coding Enthusiast | Building Smarter Tools with Code & APIs
-</h3>
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/MasuRii">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=MasuRii+Math+Lee;Full-Stack+Developer+%7C+Philippines" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=onedark&margin-w=15&margin-h=15&no-frame=true&column=7&row=1" alt="GitHub Trophies" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=500&lines=AI-Augmented+Development;Open+Source+Contributor;Building+Practical+Tools" alt="Subtitle" />
+  </a>
+</p>
+
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://github.com/MasuRii?tab=followers">
+    <img src="https://img.shields.io/github/followers/masurii?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/MasuRii?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/masurii?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/MasuRii">
+    <img src="https://github-profile-trophy.vercel.app/?username=masurii&theme=algolia&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
+## About
+
+```typescript
+const masurii = {
+    location: "Philippines 🇵🇭",
+    education: "CIT-U Graduate (Dec 2025)",
+    focus: ["Full-Stack Development", "AI/LLM Tooling", "Browser Automation"],
+    currentlyBuilding: "AI proxy infrastructure for agentic coding workflows",
+    askMeAbout: ["Spring Boot", "Flutter", "Next.js", "GenAI APIs", "Playwright"]
+};
+```
+
+I build practical tools that solve real problems—public transport fare calculators, e-commerce platforms, AI proxy infrastructure, and browser automation tooling. Active contributor to open source projects in the LLM/AI tooling space.
+
+---
+
+## Tech Stack
+
 <p align="center">
-  I craft <strong>scalable web & mobile apps</strong> that blend clean code with real-world impact.  
-  <br>
-  Currently focused on <strong>Agentic Coding workflows</strong>, academic capstone development, and cross-platform mobile architecture.
-  <br>
-  <em>Powered by curiosity, coffee ☕, and external LLM APIs.</em>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi&theme=dark" alt="Backend" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" alt="Mobile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,githubactions&theme=dark" alt="Infrastructure" />
+  </a>
 </p>
 
 ---
 
-### 🎯 What I'm Up To (Late 2025 Focus)
+## Featured Projects
 
-- 🔭 **Capstone Revival:** 
-  - **[AudioScholar](https://github.com/MasuRii/AudioScholar)**  
-    → Currently revitalizing and refactoring this 1-year-old academic project. It serves as a comprehensive audio-learning platform backbone, leveraging **Java** and **Spring Boot**.
+<details open>
+<summary><b>🚀 Production Applications</b></summary>
+<br>
 
-- 📱 **Mobile Development:**
-  - **[ph-fare-calculator](https://github.com/MasuRii/ph-fare-calculator)**
-    → A production-ready **Flutter** app that estimates public transport costs across the Philippines. Features a hybrid calculation engine (OSRM + Static Matrices) to handle complex localized pricing for Jeepneys, Buses, Trains, and Ferries. Includes offline support and discount calculations.
+<a href="https://github.com/MasuRii/PH-Fare-Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=PH-Fare-Calculator&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/MasuRii/Luv-Charms-E-commerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=Luv-Charms-E-commerce&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
-- 🛒 **E-Commerce & Web Development:**
-  - **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)**
-    → A **Next.js 16 + Sanity.io** e-commerce platform tailored for the Philippine market. Features a "Checkout to Messenger" workflow that bridges automated shopping with personalized direct-message transactions (WhatsApp/Messenger). Includes a full product catalog, persistent cart, and embedded Sanity Studio for inventory management.
+| Project | Live Demo | Description |
+|---------|-----------|-------------|
+| **PH-Fare-Calculator** | — | Flutter app for Philippine transport fare estimation with offline support |
+| **Luv-Charms-E-commerce** | [Visit](https://luv-charms-e-commerce.vercel.app) | Next.js storefront with Messenger checkout workflow |
+| **CITUCourseBuilder** | [Visit](https://masurii.github.io/CITUCourseBuilder/) | Schedule planner for CIT-U students |
 
-- 🎬 **Automation & Tooling:**
-  - **[Spectator](https://github.com/MasuRii/Spectator)** *(Private)*
-    → A specialized **Node.js** toolkit for distributed YouTube browser automation, focusing on stealth and realistic playback simulation. Features an advanced self-healing proxy system and a behavior engine using Bezier curves to mimic organic human interaction.
+</details>
 
-- 🌱 **Learning:**
-  - **Agentic Workflows:** Mastering the integration of **Playwright** and **Python** for automated browser tasks.
-  - **Jetpack Compose & Kotlin:** Modernizing Android UI development.
-  - **Flutter & Dart:** Expanding into cross-platform mobile ecosystems.
+<details open>
+<summary><b>🤖 AI/LLM Infrastructure</b></summary>
+<br>
 
-- 💡 **Exploring:** 
-  - Maximizing **External API** limits for AI coding (Gemini/OpenAI) on low-spec hardware.
-  - **Spring Boot** optimization for academic scale.
+<a href="https://github.com/MasuRii/AIstudioProxyAPI-EN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=AIstudioProxyAPI-EN&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+<a href="https://github.com/MasuRii/MasuSenseiBotV3-Agent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=MasuSenseiBotV3-Agent&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
 
-- 💬 **Ask Me About:**
-  `Spring Boot` • `React` • `Next.js` • `Flutter/Dart` • `Agentic Coding` • `GenAI APIs` • `Userscripts` • `Android (Kotlin/Java)` • `Browser Automation`
+| Project | Tech | Description |
+|---------|------|-------------|
+| **AIstudioProxyAPI-EN** | Python, FastAPI | OpenAI-compatible proxy for Google AI Studio |
+| **MasuSenseiBotV3-Agent** | Python, GitHub Actions | AI mentorship bot for automated PR reviews |
+| **FBScrapeIdeas** | Python, Selenium | Facebook group scraper with AI categorization |
+
+</details>
+
+<details>
+<summary><b>📚 Academic & Completed</b></summary>
+<br>
+
+<a href="https://github.com/MasuRii/AudioScholar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasuRii&repo=AudioScholar&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
+| Project | Tech | Status |
+|---------|------|--------|
+| **AudioScholar** | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
+| **QuickFix-PH** | HTML | Hackathon Project |
+
+</details>
+
+<details>
+<summary><b>🔧 Browser Automation & Userscripts</b></summary>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| **Spectator** *(Private)* | Distributed browser automation with self-healing proxy system |
+| **wtr-lab-novel-image-generator** | AI-powered image generation userscript for web novels |
+| **zero-zerogpt** | AI content detector bypass technique |
+
+</details>
 
 ---
 
-### 📫 Let's Connect
+## Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/sst%2Fopencode-Issues%20%26%20Discussions-blue?style=for-the-badge&logo=github" alt="opencode" />
+  <img src="https://img.shields.io/badge/Mirrowel%2FLLM--API--Key--Proxy-PR%20Contributor-green?style=for-the-badge&logo=github" alt="LLM-API-Key-Proxy" />
+  <img src="https://img.shields.io/badge/DedInc%2Fgamma--ai--watermark--remover-Feature%20Added-orange?style=for-the-badge&logo=github" alt="gamma-ai" />
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=a78bfa&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=667eea&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=a78bfa&fire=f97316&currStreakLabel=667eea" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masurii&bg_color=0D1117&color=667eea&line=a78bfa&point=f97316&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Connect
 
 <p align="center">
   <a href="mailto:mathlee.biacolo@proton.me">
-    <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+    <img src="https://img.shields.io/badge/ProtonMail-8B5CF6?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="mailto:mathlee.biacolo@cit.edu">
-    <img src="https://img.shields.io/badge/CIT--U%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="University Email"/>
+  <a href="https://greasyfork.org/en/users/1433142-masuriii">
+    <img src="https://img.shields.io/badge/Greasy%20Fork-670000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/MasuRii">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-> ⚡ **Fun Fact:** I once debugged a userscript at 3 AM… fueled by *three* cups of coffee and pure determination. ☕💻
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masurii&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masurii&layout=compact&theme=react&hide_border=true&langs_count=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=masurii&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MasuRii&theme=react&hide_border=true" alt="Profile Summary"/>
-</p>
-
----
-
-### 🛠️ My Tech Stack & Tools:
-
-<p align="center">
-  <strong>Frontend:</strong>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <br/>
-  <strong>Backend & AI Scripting:</strong>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/></a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/></a>
-  <br/>
-  <strong>Mobile:</strong>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="40" height="40"/></a>
-  <br/>
-  <strong>Databases & CMS:</strong>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/ve761bca974e16662f27aa8810df6d144acde5bdbeeca0dfd50e25f86621eaa19/firebase/images/lockup.svg" alt="Firebase" width="100" height="30"/></a>
-  <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sanity/sanity-original.svg" alt="Sanity.io" width="40" height="40"/></a>
-  <a href="https://hivedb.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg" alt="Hive" width="40" height="40"/></a>
-  <br/>
-  <strong>DevOps & Tools:</strong>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/></a>
-  <a href="https://yaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-</p>
-
----
-
-### 🌐 Find Me Around the Web
-
-<p align="center">
-  <a href="https://greasyfork.org/en/users/1433142-masuriii" target="_blank">
-    <img src="https://img.shields.io/badge/Greasy%20Fork-7D4698?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <em>Thanks for visiting! Let's build something awesome together. 🚀</em>
-</p>
+<!-- Dynamic Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
