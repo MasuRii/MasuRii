@@ -34,7 +34,7 @@
 ```typescript
 const masurii = {
     location: "Philippines 🇵🇭",
-    education: "CIT-U Graduate (Dec 2025)",
+    education: "CIT-U Graduate",
     focus: ["Full-Stack Development", "AI/LLM Tooling", "Browser Automation"],
     currentlyBuilding: "AI proxy infrastructure for agentic coding workflows",
     askMeAbout: ["Spring Boot", "Flutter", "Next.js", "GenAI APIs", "Playwright"]
