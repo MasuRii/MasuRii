@@ -172,7 +172,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=masurii&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=a78bfa&fire=f97316&currStreakLabel=667eea" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=masurii&theme=react&hide_border=true&background=0D1117&stroke=667eea&ring=a78bfa&fire=f97316&currStreakLabel=667eea" alt="GitHub Streak" />
   </a>
 </p>
 
