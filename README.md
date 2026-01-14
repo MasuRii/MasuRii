@@ -139,13 +139,13 @@ I build practical tools that solve real problems—public transport fare calcula
 <summary><b>📖 WTR Lab Userscripts</b></summary>
 <br>
 
-| Project | Description |
-|---------|-------------|
-| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | AI-powered image generation with 100+ art styles |
-| [**wtr-lab-novel-reviewer**](https://github.com/MasuRii/wtr-lab-novel-reviewer) | Chapter review and rating system |
-| [**wtr-lab-term-replacer**](https://github.com/MasuRii/wtr-lab-term-replacer) | Modular term replacement with Webpack build system |
-| [**wtr-term-inconsistency-finder**](https://github.com/MasuRii/wtr-term-inconsistency-finder) | Translation inconsistency detection using Gemini AI |
-| [**wtr-lab-enhancer**](https://github.com/MasuRii/wtr-lab-enhancer) | Reading experience enhancements |
+| Project | Greasy Fork | Description |
+|---------|-------------|-------------|
+| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) | AI-powered image generation with 100+ art styles |
+| [**wtr-lab-novel-reviewer**](https://github.com/MasuRii/wtr-lab-novel-reviewer) | [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer) | Chapter review and rating system |
+| [**wtr-lab-term-replacer**](https://github.com/MasuRii/wtr-lab-term-replacer) | — | Modular term replacement with Webpack build system |
+| [**wtr-term-inconsistency-finder**](https://github.com/MasuRii/wtr-term-inconsistency-finder) | [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder) | Translation inconsistency detection using Gemini AI |
+| [**wtr-lab-enhancer**](https://github.com/MasuRii/wtr-lab-enhancer) | [Install](https://greasyfork.org/en/scripts/552944-wtr-lab-reader-ui-enhancer) | Reading experience enhancements |
 
 </details>
 
