@@ -49,7 +49,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
   </a>
 </p>
 
@@ -61,13 +61,13 @@ I build practical tools that solve real problems—public transport fare calcula
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" alt="Mobile" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,godot&theme=dark" alt="Mobile & Game" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,githubactions&theme=dark" alt="Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,git,github,githubactions&theme=dark" alt="Infrastructure" />
   </a>
 </p>
 
@@ -96,6 +96,7 @@ I build practical tools that solve real problems—public transport fare calcula
 | [**modernphotography-portfolio-template**](https://github.com/MasuRii/modernphotography-portfolio-template) | [Visit](https://masurii.github.io/modernphotography-portfolio-template/) | Astro + Tailwind photography portfolio with gallery, lightbox, and print shop |
 | [**dev-portfolio-template**](https://github.com/MasuRii/dev-portfolio-template) | [Visit](https://masurii.github.io/dev-portfolio-template/) | Modern developer portfolio built with Astro, React, and Tailwind CSS |
 | [**restaurant-website-template**](https://github.com/MasuRii/restaurant-website-template) | [Visit](https://masurii.github.io/restaurant-website-template/) | Accessible, SEO-optimized restaurant template with Astro and React |
+| [**travelblog-website-template**](https://github.com/MasuRii/travelblog-website-template) | [Visit](https://masurii.github.io/travelblog-website-template/) | Travel blog template built with Astro and Tailwind CSS |
 
 </details>
 
@@ -119,7 +120,6 @@ I build practical tools that solve real problems—public transport fare calcula
 | [**AudioScholar**](https://github.com/MasuRii/AudioScholar) | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
 | [**CampusNavigator**](https://github.com/MasuRii/CampusNavigator) | Java, JavaScript | ✅ CSIT321 Final Project |
 | [**ItemExchangeApplication**](https://github.com/MasuRii/ItemExchangeApplication) | Python, HTML, CSS | ✅ Community Bartering System |
-| [**QuickFix-PH**](https://github.com/MasuRii/QuickFix-PH) | HTML | Hackathon Project |
 
 </details>
 
@@ -162,6 +162,9 @@ I build practical tools that solve real problems—public transport fare calcula
   </a>
   <a href="https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii">
     <img src="https://img.shields.io/badge/DedInc%2Fgamma--ai--watermark--remover-Feature%20Added-orange?style=for-the-badge&logo=github" alt="gamma-ai" />
+  </a>
+  <a href="https://github.com/shuv1337/openralph">
+    <img src="https://img.shields.io/badge/shuv1337%2Fopenralph-Maintainer-8B5CF6?style=for-the-badge&logo=github" alt="openralph" />
   </a>
 </p>
 
