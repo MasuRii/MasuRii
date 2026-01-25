@@ -93,6 +93,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 | Project | Live Demo | Description |
 |---------|-----------|-------------|
+| [**education-website-template**](https://github.com/MasuRii/education-website-template) | [Visit](https://masurii.github.io/education-website-template/) | Modern education platform template built with Next.js 14, TypeScript, and Velite MDX |
 | [**modernphotography-portfolio-template**](https://github.com/MasuRii/modernphotography-portfolio-template) | [Visit](https://masurii.github.io/modernphotography-portfolio-template/) | Astro + Tailwind photography portfolio with gallery, lightbox, and print shop |
 | [**dev-portfolio-template**](https://github.com/MasuRii/dev-portfolio-template) | [Visit](https://masurii.github.io/dev-portfolio-template/) | Modern developer portfolio built with Astro, React, and Tailwind CSS |
 | [**restaurant-website-template**](https://github.com/MasuRii/restaurant-website-template) | [Visit](https://masurii.github.io/restaurant-website-template/) | Accessible, SEO-optimized restaurant template with Astro and React |
