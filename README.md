@@ -81,6 +81,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 | Project | Live Demo | Description |
 |---------|-----------|-------------|
+| [**TrustGuard**](https://github.com/MasuRii/TrustGuard) | — | Offline-first group expense and settlement ledger built with Flutter. Track shared expenses, manage balances, and settle debts — all without internet |
 | [**PH-Fare-Calculator**](https://github.com/MasuRii/PH-Fare-Calculator) | — | Flutter app for Philippine transport fare estimation with offline support |
 | [**Luv-Charms-E-commerce**](https://github.com/MasuRii/Luv-Charms-E-commerce) | [Visit](https://luv-charms-e-commerce.vercel.app) | Next.js storefront with Messenger checkout workflow |
 | [**CITUCourseBuilder**](https://github.com/MasuRii/CITUCourseBuilder) | [Visit](https://masurii.github.io/CITUCourseBuilder/) | Schedule planner for CIT-U students |
