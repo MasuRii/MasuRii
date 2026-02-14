@@ -33,9 +33,10 @@
 
 ```typescript
 const masurii = {
-    location: "Philippines 🇵🇭",
+    role: "Full-Stack Developer",
     education: "CIT-U Graduate",
     focus: ["Full-Stack Development", "AI/LLM Tooling", "Browser Automation"],
+    interests: ["Open Source", "Developer Tools", "System Design"],
     currentlyBuilding: "AI proxy infrastructure for agentic coding workflows",
     askMeAbout: ["Spring Boot", "Flutter", "Next.js", "GenAI APIs", "Playwright"]
 };
