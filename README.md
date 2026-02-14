@@ -55,7 +55,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,rust&theme=dark" alt="Backend" />
   </a>
 </p>
 
@@ -99,6 +99,7 @@ I build practical tools that solve real problems—public transport fare calcula
 | [**dev-portfolio-template**](https://github.com/MasuRii/dev-portfolio-template) | [Visit](https://masurii.github.io/dev-portfolio-template/) | Modern developer portfolio built with Astro, React, and Tailwind CSS |
 | [**restaurant-website-template**](https://github.com/MasuRii/restaurant-website-template) | [Visit](https://masurii.github.io/restaurant-website-template/) | Accessible, SEO-optimized restaurant template with Astro and React |
 | [**travelblog-website-template**](https://github.com/MasuRii/travelblog-website-template) | [Visit](https://masurii.github.io/travelblog-website-template/) | Travel blog template built with Astro and Tailwind CSS |
+| [**ModernSaaS-LandingPage-Template**](https://github.com/MasuRii/ModernSaaS-LandingPage-Template) | [Visit](https://masurii.github.io/ModernSaaS-LandingPage-Template/) | Modern SaaS landing page template with responsive design and dark mode support |
 
 </details>
 
@@ -122,6 +123,16 @@ I build practical tools that solve real problems—public transport fare calcula
 | [**AudioScholar**](https://github.com/MasuRii/AudioScholar) | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
 | [**CampusNavigator**](https://github.com/MasuRii/CampusNavigator) | Java, JavaScript | ✅ CSIT321 Final Project |
 | [**ItemExchangeApplication**](https://github.com/MasuRii/ItemExchangeApplication) | Python, HTML, CSS | ✅ Community Bartering System |
+
+</details>
+
+<details open>
+<summary><b>🦀 CLI Tools & Rust Packages</b></summary>
+<br>
+
+| Project | Package Registry | Description |
+|---------|------------------|-------------|
+| [**RustDupe**](https://github.com/MasuRii/RustDupe) | [![crates.io](https://img.shields.io/crates/v/rustdupe.svg)](https://crates.io/crates/rustdupe) | Fast and efficient duplicate file finder written in Rust |
 
 </details>
 
@@ -212,6 +223,14 @@ I build practical tools that solve real problems—public transport fare calcula
   &nbsp;
   <a href="https://github.com/MasuRii">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/kanji_harigana">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/math-lee-biacolo-729287190">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
