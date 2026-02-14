@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=MasuRii+Math+Lee;Full-Stack+Developer+%7C+Philippines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=false&width=1500&height=100&lines=MasuRii+Math+Lee;Full-Stack+Developer+%7C+AI+Infrastructure+%26+Developer+Tools" alt="Typing SVG" />
   </a>
 </p>
 
