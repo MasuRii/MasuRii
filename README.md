@@ -50,6 +50,11 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![GDScript](https://img.shields.io/badge/-GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
@@ -59,7 +64,6 @@ I build practical tools that solve real problems—public transport fare calcula
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
@@ -120,9 +124,6 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
 - 🔹 **[Oct4Pie/zero-zerogpt](https://github.com/Oct4Pie/zero-zerogpt)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/Oct4Pie/zero-zerogpt/pulls?q=author%3AMasuRii)
-- 🔹 **[CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)** - PR contributions (`3 PRs`, `0 merged`). [Pull Requests](https://github.com/CJackHwang/AIstudioProxyAPI/pulls?q=author%3AMasuRii)
-- 🔹 **[franlol/opencode-md-table-formatter](https://github.com/franlol/opencode-md-table-formatter)** - PR contributions (`1 PR`, `0 merged`). [Pull Requests](https://github.com/franlol/opencode-md-table-formatter/pulls?q=author%3AMasuRii)
-- 🔹 **[Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning)** - PR contributions (`1 PR`, `0 merged`). [Pull Requests](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning/pulls?q=author%3AMasuRii)
 
 ---
 

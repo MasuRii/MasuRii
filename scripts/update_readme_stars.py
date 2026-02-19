@@ -241,7 +241,7 @@ def build_oss_lines(token: str | None) -> list[str]:
             continue
 
         pr_count, merged_count = pr_stats
-        if pr_count <= 0:
+        if merged_count < 1:
             continue
 
         stats.append((repo, pr_count, merged_count))
