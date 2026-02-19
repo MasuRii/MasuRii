@@ -48,139 +48,81 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ## Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,astro,ts,js,tailwind,html,css&theme=dark" alt="Frontend" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,fastapi,rust&theme=dark" alt="Backend" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,godot&theme=dark" alt="Mobile & Game" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,docker,git,github,githubactions&theme=dark" alt="Infrastructure" />
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
-## Featured Projects
+## Projects
 
-<details open>
-<summary><b>🚀 Production Applications</b></summary>
-<br>
+### 🚀 Production Apps
 
-| Project | Live Demo | Description |
-|---------|-----------|-------------|
-| [**TrustGuard**](https://github.com/MasuRii/TrustGuard) | — | Offline-first group expense and settlement ledger built with Flutter. Track shared expenses, manage balances, and settle debts — all without internet |
-| [**PH-Fare-Calculator**](https://github.com/MasuRii/PH-Fare-Calculator) | — | Flutter app for Philippine transport fare estimation with offline support |
-| [**Luv-Charms-E-commerce**](https://github.com/MasuRii/Luv-Charms-E-commerce) | [Visit](https://luv-charms-e-commerce.vercel.app) | Next.js storefront with Messenger checkout workflow |
-| [**CITUCourseBuilder**](https://github.com/MasuRii/CITUCourseBuilder) | [Visit](https://masurii.github.io/CITUCourseBuilder/) | Schedule planner for CIT-U students |
+- 🧾 **[TrustGuard](https://github.com/MasuRii/TrustGuard)** - Offline-first Flutter expense and settlement ledger for shared groups.
+- 🚌 **[PH-Fare-Calculator](https://github.com/MasuRii/PH-Fare-Calculator)** - Fare estimation app for Philippine transport routes with offline support.
+- 🛍️ **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)** - Next.js storefront with Messenger checkout flow. [Live](https://luv-charms-e-commerce.vercel.app)
+- 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://masurii.github.io/CITUCourseBuilder/) `⭐ 2`
 
-</details>
+### 🧩 OpenCode Plugins
 
-<details open>
-<summary><b>🎨 Website Templates</b></summary>
-<br>
+- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 32`
+- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 4`
 
-| Project | Live Demo | Description |
-|---------|-----------|-------------|
-| [**education-website-template**](https://github.com/MasuRii/education-website-template) | [Visit](https://masurii.github.io/education-website-template/) | Modern education platform template built with Next.js 14, TypeScript, and Velite MDX |
-| [**modernphotography-portfolio-template**](https://github.com/MasuRii/modernphotography-portfolio-template) | [Visit](https://masurii.github.io/modernphotography-portfolio-template/) | Astro + Tailwind photography portfolio with gallery, lightbox, and print shop |
-| [**dev-portfolio-template**](https://github.com/MasuRii/dev-portfolio-template) | [Visit](https://masurii.github.io/dev-portfolio-template/) | Modern developer portfolio built with Astro, React, and Tailwind CSS |
-| [**restaurant-website-template**](https://github.com/MasuRii/restaurant-website-template) | [Visit](https://masurii.github.io/restaurant-website-template/) | Accessible, SEO-optimized restaurant template with Astro and React |
-| [**travelblog-website-template**](https://github.com/MasuRii/travelblog-website-template) | [Visit](https://masurii.github.io/travelblog-website-template/) | Travel blog template built with Astro and Tailwind CSS |
-| [**ModernSaaS-LandingPage-Template**](https://github.com/MasuRii/ModernSaaS-LandingPage-Template) | [Visit](https://masurii.github.io/ModernSaaS-LandingPage-Template/) | Modern SaaS landing page template with responsive design and dark mode support |
+### 🎨 Website Templates
 
-</details>
+- 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/)
+- 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/)
+- 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/)
+- 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 2`
+- ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/)
+- 💼 **[ModernSaaS-LandingPage-Template](https://github.com/MasuRii/ModernSaaS-LandingPage-Template)** - SaaS landing page template with responsive sections and clean conversion flow. [Live](https://masurii.github.io/ModernSaaS-LandingPage-Template/)
 
-<details open>
-<summary><b>🤖 AI/LLM Infrastructure</b></summary>
-<br>
+### 🤖 AI/LLM, Automation, and Tooling
 
-| Project | Tech | Description |
-|---------|------|-------------|
-| [**AIstudioProxyAPI-EN**](https://github.com/MasuRii/AIstudioProxyAPI-EN) | Python, FastAPI | OpenAI-compatible proxy for Google AI Studio |
-| [**MasuSenseiBotV3-Agent**](https://github.com/MasuRii/MasuSenseiBotV3-Agent) | Python, GitHub Actions | AI mentorship bot for automated PR reviews |
+- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 17`
+- 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 18`
+- 🛰️ **Spectator** *(Private)* - Distributed browser automation with self-healing proxy routing.
 
-</details>
+### 🦀 CLI, Packages, and Userscripts
 
-<details>
-<summary><b>📚 Academic & Completed</b></summary>
-<br>
+- 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe)
+- 🖼️ **[wtr-lab-novel-image-generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)** - AI image generation userscript with style presets. [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) `⭐ 4`
+- 📝 **[wtr-lab-novel-reviewer](https://github.com/MasuRii/wtr-lab-novel-reviewer)** - Chapter review and rating userscript. [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer)
+- 🔁 **[wtr-lab-term-replacer](https://github.com/MasuRii/wtr-lab-term-replacer)** - Modular term replacement userscript with Webpack pipeline.
+- 🔎 **[wtr-term-inconsistency-finder](https://github.com/MasuRii/wtr-term-inconsistency-finder)** - Translation inconsistency checker using Gemini AI. [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder)
+- ✨ **[wtr-lab-enhancer](https://github.com/MasuRii/wtr-lab-enhancer)** - Reading UX enhancement userscript for WTR Lab. [Install](https://greasyfork.org/en/scripts/552944-wtr-lab-reader-ui-enhancer)
 
-| Project | Tech | Status |
-|---------|------|--------|
-| [**AudioScholar**](https://github.com/MasuRii/AudioScholar) | Java, Spring Boot, Kotlin, React | ✅ Completed Dec 2025 |
-| [**CampusNavigator**](https://github.com/MasuRii/CampusNavigator) | Java, JavaScript | ✅ CSIT321 Final Project |
-| [**ItemExchangeApplication**](https://github.com/MasuRii/ItemExchangeApplication) | Python, HTML, CSS | ✅ Community Bartering System |
+### 📚 Academic Builds
 
-</details>
-
-<details open>
-<summary><b>🦀 CLI Tools & Rust Packages</b></summary>
-<br>
-
-| Project | Package Registry | Description |
-|---------|------------------|-------------|
-| [**RustDupe**](https://github.com/MasuRii/RustDupe) | [![crates.io](https://img.shields.io/crates/v/rustdupe.svg)](https://crates.io/crates/rustdupe) | Fast and efficient duplicate file finder written in Rust |
-
-</details>
-
-<details>
-<summary><b>🔧 Browser Automation & Userscripts</b></summary>
-<br>
-
-| Project | Description |
-|---------|-------------|
-| **Spectator** *(Private)* | Distributed browser automation with self-healing proxy system |
-| [**FBScrapeIdeas**](https://github.com/MasuRii/FBScrapeIdeas) | Facebook group scraper with AI categorization |
-| [**zero-zerogpt**](https://github.com/MasuRii/zero-zerogpt) | AI content detector bypass technique |
-
-</details>
-
-<details>
-<summary><b>📖 WTR Lab Userscripts</b></summary>
-<br>
-
-| Project | Greasy Fork | Description |
-|---------|-------------|-------------|
-| [**wtr-lab-novel-image-generator**](https://github.com/MasuRii/wtr-lab-novel-image-generator) | [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) | AI-powered image generation with 100+ art styles |
-| [**wtr-lab-novel-reviewer**](https://github.com/MasuRii/wtr-lab-novel-reviewer) | [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer) | Chapter review and rating system |
-| [**wtr-lab-term-replacer**](https://github.com/MasuRii/wtr-lab-term-replacer) | — | Modular term replacement with Webpack build system |
-| [**wtr-term-inconsistency-finder**](https://github.com/MasuRii/wtr-term-inconsistency-finder) | [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder) | Translation inconsistency detection using Gemini AI |
-| [**wtr-lab-enhancer**](https://github.com/MasuRii/wtr-lab-enhancer) | [Install](https://greasyfork.org/en/scripts/552944-wtr-lab-reader-ui-enhancer) | Reading experience enhancements |
-
-</details>
+- 🎓 **[AudioScholar](https://github.com/MasuRii/AudioScholar)** - Java + Spring Boot + React capstone project, completed Dec 2025.
+- 🧭 **[CampusNavigator](https://github.com/MasuRii/CampusNavigator)** - Campus navigation system developed for CSIT321.
+- 🔄 **[ItemExchangeApplication](https://github.com/MasuRii/ItemExchangeApplication)** - Community bartering platform built with Python.
 
 ---
 
 ## Open Source Contributions
 
-<p align="center">
-  <a href="https://github.com/sst/opencode/issues?q=author%3AMasuRii">
-    <img src="https://img.shields.io/badge/sst%2Fopencode-Issues%20%26%20Discussions-blue?style=for-the-badge&logo=github" alt="opencode" />
-  </a>
-  <a href="https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii">
-    <img src="https://img.shields.io/badge/Mirrowel%2FLLM--API--Key--Proxy-PR%20Contributor-green?style=for-the-badge&logo=github" alt="LLM-API-Key-Proxy" />
-  </a>
-  <a href="https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii">
-    <img src="https://img.shields.io/badge/DedInc%2Fgamma--ai--watermark--remover-Feature%20Added-orange?style=for-the-badge&logo=github" alt="gamma-ai" />
-  </a>
-  <a href="https://github.com/shuv1337/openralph">
-    <img src="https://img.shields.io/badge/shuv1337%2Fopenralph-Maintainer-8B5CF6?style=for-the-badge&logo=github" alt="openralph" />
-  </a>
-</p>
+- 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
+- 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`11 PRs`, `5 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
+- 🔹 **[BinaryBeastMaster/chat-relay](https://github.com/BinaryBeastMaster/chat-relay)** - PR contributions (`4 PRs`, `2 merged`). [Pull Requests](https://github.com/BinaryBeastMaster/chat-relay/pulls?q=author%3AMasuRii)
+- 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
+- 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
+- 🔹 **[Oct4Pie/zero-zerogpt](https://github.com/Oct4Pie/zero-zerogpt)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/Oct4Pie/zero-zerogpt/pulls?q=author%3AMasuRii)
+- 🔹 **[CJackHwang/AIstudioProxyAPI](https://github.com/CJackHwang/AIstudioProxyAPI)** - PR contributions (`3 PRs`, `0 merged`). [Pull Requests](https://github.com/CJackHwang/AIstudioProxyAPI/pulls?q=author%3AMasuRii)
+- 🔹 **[franlol/opencode-md-table-formatter](https://github.com/franlol/opencode-md-table-formatter)** - PR contributions (`1 PR`, `0 merged`). [Pull Requests](https://github.com/franlol/opencode-md-table-formatter/pulls?q=author%3AMasuRii)
+- 🔹 **[Opencode-DCP/opencode-dynamic-context-pruning](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning)** - PR contributions (`1 PR`, `0 merged`). [Pull Requests](https://github.com/Opencode-DCP/opencode-dynamic-context-pruning/pulls?q=author%3AMasuRii)
 
 ---
 
