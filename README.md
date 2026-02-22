@@ -119,7 +119,7 @@ I build practical tools that solve real problems—public transport fare calcula
 ## Open Source Contributions
 
 - 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
-- 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`11 PRs`, `5 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
+- 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`12 PRs`, `5 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
 - 🔹 **[BinaryBeastMaster/chat-relay](https://github.com/BinaryBeastMaster/chat-relay)** - PR contributions (`4 PRs`, `2 merged`). [Pull Requests](https://github.com/BinaryBeastMaster/chat-relay/pulls?q=author%3AMasuRii)
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
