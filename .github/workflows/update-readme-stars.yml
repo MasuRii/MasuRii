@@ -32,8 +32,8 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "MasuRii"
+          git config user.email "kanjiharigana@gmail.com"
           git add README.md
           git commit -m "chore(readme): auto-update stars and OSS PR stats"
           git push
