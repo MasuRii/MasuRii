@@ -165,10 +165,6 @@ I build practical tools that solve real problems—public transport fare calcula
     <img src="https://img.shields.io/badge/Greasy%20Fork-670000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
   </a>
   &nbsp;
-  <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
   <a href="https://x.com/kanji_harigana">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
