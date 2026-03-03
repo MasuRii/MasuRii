@@ -78,6 +78,11 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🛍️ **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)** - Next.js storefront with Messenger checkout flow. [Live](https://luv-charms-e-commerce.vercel.app)
 - 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://masurii.github.io/CITUCourseBuilder/) `⭐ 2`
 
+### 🧩 Pi Extensions
+
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 4`
+- 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 3`
+
 ### 🧩 OpenCode Plugins
 
 - 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 34`
@@ -97,7 +102,6 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 26`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
 - 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 22`
-- 🛰️ **Spectator** *(Private)* - Distributed browser automation with self-healing proxy routing.
 
 ### 🦀 CLI, Packages, and Userscripts
 
