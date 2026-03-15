@@ -100,13 +100,13 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🤖 AI/LLM, Automation, and Tooling
 
-- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 31`
+- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 32`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
 - 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 25`
 
 ### 🦀 CLI, Packages, and Userscripts
 
-- 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe)
+- 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe) `⭐ 2`
 - 🖼️ **[wtr-lab-novel-image-generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)** - AI image generation userscript with style presets. [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) `⭐ 4`
 - 📝 **[wtr-lab-novel-reviewer](https://github.com/MasuRii/wtr-lab-novel-reviewer)** - Chapter review and rating userscript. [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer)
 - 🔁 **[wtr-lab-term-replacer](https://github.com/MasuRii/wtr-lab-term-replacer)** - Modular term replacement userscript with Webpack pipeline.
