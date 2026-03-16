@@ -123,6 +123,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ## Open Source Contributions
 
+- 🔹 **[RecursiveDev/Pasahe](https://github.com/RecursiveDev/Pasahe)** - PR contributions (`7 PRs`, `7 merged`). [Pull Requests](https://github.com/RecursiveDev/Pasahe/pulls?q=author%3AMasuRii)
 - 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`14 PRs`, `6 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
 - 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
 - 🔹 **[BinaryBeastMaster/chat-relay](https://github.com/BinaryBeastMaster/chat-relay)** - PR contributions (`4 PRs`, `2 merged`). [Pull Requests](https://github.com/BinaryBeastMaster/chat-relay/pulls?q=author%3AMasuRii)
