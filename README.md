@@ -86,7 +86,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 OpenCode Plugins
 
-- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 41`
+- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 43`
 - 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 5`
 
 ### 🎨 Website Templates
@@ -125,7 +125,6 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔹 **[RecursiveDev/Pasahe](https://github.com/RecursiveDev/Pasahe)** - PR contributions (`7 PRs`, `7 merged`). [Pull Requests](https://github.com/RecursiveDev/Pasahe/pulls?q=author%3AMasuRii)
 - 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`14 PRs`, `6 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
-- 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
 - 🔹 **[BinaryBeastMaster/chat-relay](https://github.com/BinaryBeastMaster/chat-relay)** - PR contributions (`4 PRs`, `2 merged`). [Pull Requests](https://github.com/BinaryBeastMaster/chat-relay/pulls?q=author%3AMasuRii)
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
