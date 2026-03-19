@@ -96,7 +96,7 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/)
 - 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/)
 - 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/)
-- 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 3`
+- 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 4`
 - ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/)
 - 💼 **[ModernSaaS-LandingPage-Template](https://github.com/MasuRii/ModernSaaS-LandingPage-Template)** - SaaS landing page template with responsive sections and clean conversion flow. [Live](https://masurii.github.io/ModernSaaS-LandingPage-Template/)
 
