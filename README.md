@@ -172,10 +172,6 @@ I build practical tools that solve real problems—public transport fare calcula
     <img src="https://img.shields.io/badge/Greasy%20Fork-670000?style=for-the-badge&logo=greasyfork&logoColor=white" alt="Greasy Fork"/>
   </a>
   &nbsp;
-  <a href="https://x.com/kanji_harigana">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/math-lee-biacolo-729287190">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
