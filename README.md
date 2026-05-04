@@ -80,18 +80,18 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 122`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 30`
-- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 14`
-- 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 7`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 125`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 31`
+- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 15`
+- 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 8`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 4`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 4`
-- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 54`
+- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 55`
 
 ### 🧩 OpenCode Plugins
 
 - 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 57`
-- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 17`
+- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 18`
 
 ### 🎨 Website Templates
 
@@ -104,7 +104,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🤖 AI/LLM, Automation, and Tooling
 
-- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 34`
+- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 35`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
 - 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 43`
 
