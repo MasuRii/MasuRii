@@ -16,10 +16,6 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/MasuRii?tab=followers">
-    <img src="https://img.shields.io/github/followers/masurii?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/MasuRii?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/masurii?label=Stars&style=social" alt="GitHub Stars" />
   </a>
@@ -74,9 +70,9 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🚀 Production Apps
 
 - 🧾 **[TrustGuard](https://github.com/MasuRii/TrustGuard)** - Offline-first Flutter expense and settlement ledger for shared groups.
-- 🚌 **[PH-Fare-Calculator](https://github.com/MasuRii/PH-Fare-Calculator)** - Fare estimation app for Philippine transport routes with offline support.
-- 🛍️ **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)** - Next.js storefront with Messenger checkout flow. [Live](https://luv-charms-e-commerce.vercel.app)
-- 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://masurii.github.io/CITUCourseBuilder/) `⭐ 2`
+- 🚌 **[Pasahe](https://github.com/RecursiveDev/Pasahe)** - Fare estimation app for Philippine transport routes with offline support.
+- 🛍️ **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)** - Next.js storefront with Messenger checkout flow. [Live](https://luvcharms.masurii.dev)
+- 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://citcoursebuilder.masurii.dev) `⭐ 2`
 
 ### 🧩 Pi Extensions
 
@@ -87,6 +83,8 @@ I build practical tools that solve real problems—public transport fare calcula
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 4`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 5`
 - ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 129`
+- 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls.
+- 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering.
 
 ### 🧩 OpenCode Plugins
 
@@ -116,12 +114,14 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔁 **[wtr-lab-term-replacer](https://github.com/MasuRii/wtr-lab-term-replacer)** - Modular term replacement userscript with Webpack pipeline.
 - 🔎 **[wtr-term-inconsistency-finder](https://github.com/MasuRii/wtr-term-inconsistency-finder)** - Translation inconsistency checker using Gemini AI. [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder)
 - ✨ **[wtr-lab-enhancer](https://github.com/MasuRii/wtr-lab-enhancer)** - Reading UX enhancement userscript for WTR Lab. [Install](https://greasyfork.org/en/scripts/552944-wtr-lab-reader-ui-enhancer)
+- 🧹 **[wtr-lab-delulu-destroyer](https://github.com/MasuRii/wtr-lab-delulu-destroyer)** - Lightweight Tampermonkey userscript for filtering WTR Lab novels by genre, tag, and keyword.
+- 🔍 **[wtr-lab-stalker](https://github.com/MasuRii/wtr-lab-stalker)** - Logo-activated WTR Lab userscript for searching user profiles from the navbar.
 
 ### 📚 Academic Builds
 
-- 🎓 **[AudioScholar](https://github.com/MasuRii/AudioScholar)** - Java + Spring Boot + React capstone project, completed Dec 2025. `⭐ 2`
-- 🧭 **[CampusNavigator](https://github.com/MasuRii/CampusNavigator)** - Campus navigation system developed for CSIT321.
-- 🔄 **[ItemExchangeApplication](https://github.com/MasuRii/ItemExchangeApplication)** - Community bartering platform built with Python.
+- 🎓 **[AudioScholar](https://github.com/MasuRii/AudioScholar)** - Java + Spring Boot + React capstone project, completed Dec 2025. [Live](https://audioscholar.masurii.dev) `⭐ 2`
+- 🧭 **[CampusNavigator](https://github.com/MasuRii/CampusNavigator)** - Campus navigation system developed for CSIT321. [Live](https://campusnavigator.masurii.dev)
+- 🔄 **[SwapSpot](https://github.com/MasuRii/SwapSpot)** - Community bartering platform built with Python. [Live](https://swapspot.masurii.dev)
 
 ---
 
@@ -176,6 +176,10 @@ I build practical tools that solve real problems—public transport fare calcula
   &nbsp;
   <a href="https://www.linkedin.com/in/math-lee-biacolo-729287190">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://masurii.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
