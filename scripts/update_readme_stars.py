@@ -17,6 +17,11 @@ PROJECTS_HEADING = "## Projects"
 OSS_HEADING = "## Open Source Contributions"
 SECTION_DIVIDER = "---"
 EXCLUDED_OSS_REPOS: set[str] = set()
+TOTAL_STARS_BADGE_MARKERS = (
+    "https://img.shields.io/badge/Total%20Stars-",
+    "https://img.shields.io/badge/GitHub-MasuRii-181717",
+    "https://img.shields.io/github/stars/masurii",
+)
 
 
 def github_headers(token: str | None) -> dict[str, str]:
@@ -91,6 +96,56 @@ def fetch_repo_stars(owner: str, repo: str, token: str | None) -> int | None:
     if payload is None:
         return None
     return int(payload.get("stargazers_count", 0))
+
+
+def fetch_owned_repo_star_total(owner: str, token: str | None) -> int | None:
+    total = 0
+    page = 1
+
+    while True:
+        url = (
+            f"https://api.github.com/users/{owner}/repos"
+            f"?type=owner&per_page=100&page={page}"
+        )
+        payload = rest_get_json(url, token)
+        if payload is None:
+            return None
+        if not payload:
+            break
+
+        for repo in payload:
+            if repo.get("fork"):
+                continue
+            total += int(repo.get("stargazers_count", 0))
+
+        page += 1
+
+    return total
+
+
+def update_total_stars_badge(lines: list[str], token: str | None) -> bool:
+    total = fetch_owned_repo_star_total(OWNER, token)
+    if total is None:
+        print("[warn] Total stars badge not updated (no repo data available)")
+        return False
+
+    badge_url = (
+        f"https://img.shields.io/badge/Total%20Stars-{total}-facc15"
+        "?style=social&logo=github"
+    )
+    updated_line = f'    <img src="{badge_url}" alt="Total GitHub stars" />'
+
+    for idx, line in enumerate(lines):
+        if any(marker in line for marker in TOTAL_STARS_BADGE_MARKERS):
+            if line == updated_line:
+                print("[ok] No total stars badge changes needed")
+                return False
+            lines[idx] = updated_line
+            print(f"[ok] Total stars badge updated to {total}")
+            return True
+
+    print("[warn] Total stars badge placeholder not found")
+    return False
 
 
 def update_project_stars(lines: list[str], token: str | None) -> bool:
@@ -296,6 +351,7 @@ def main() -> int:
         lines = file.read().splitlines()
 
     changed = False
+    changed = update_total_stars_badge(lines, token) or changed
     changed = update_project_stars(lines, token) or changed
     changed = update_oss_section(lines, token) or changed
 
