@@ -16,8 +16,8 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/MasuRii?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/masurii?label=Stars&style=social&cache_seconds=3600" alt="GitHub Stars" />
+  <a href="https://github.com/MasuRii">
+    <img src="https://img.shields.io/badge/GitHub-MasuRii-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
