@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-742-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-744-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -76,8 +76,8 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 205`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 95`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 206`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 96`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 30`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 9`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
@@ -131,6 +131,7 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`14 PRs`, `6 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
+- 🔹 **[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/microsoft/winget-pkgs/pulls?q=author%3AMasuRii)
 - 🔹 **[Oct4Pie/zero-zerogpt](https://github.com/Oct4Pie/zero-zerogpt)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/Oct4Pie/zero-zerogpt/pulls?q=author%3AMasuRii)
 
 ---
