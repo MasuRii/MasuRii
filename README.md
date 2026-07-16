@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-813-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-818-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -76,7 +76,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 222`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 223`
 - 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 109`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 34`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 10`
@@ -89,7 +89,7 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🧩 OpenCode Plugins
 
 - 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 65`
-- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 31`
+- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 32`
 
 ### 🎨 Website Templates
 
@@ -102,14 +102,14 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🤖 AI/LLM, Automation, and Tooling
 
-- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 43`
+- 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 44`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
 - 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 59`
 
 ### 🦀 CLI, Packages, and Userscripts
 
 - 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe) `⭐ 2`
-- 🖼️ **[wtr-lab-novel-image-generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)** - AI image generation userscript with style presets. [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) `⭐ 4`
+- 🖼️ **[wtr-lab-novel-image-generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)** - AI image generation userscript with style presets. [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) `⭐ 5`
 - 📝 **[wtr-lab-novel-reviewer](https://github.com/MasuRii/wtr-lab-novel-reviewer)** - Chapter review and rating userscript. [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer) `⭐ 2`
 - 🔁 **[wtr-lab-term-replacer](https://github.com/MasuRii/wtr-lab-term-replacer)** - Modular term replacement userscript with Webpack pipeline.
 - 🔎 **[wtr-term-inconsistency-finder](https://github.com/MasuRii/wtr-term-inconsistency-finder)** - Translation inconsistency checker using Gemini AI. [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder)
