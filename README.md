@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-939-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-942-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -76,7 +76,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 251`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 253`
 - 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 136`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 38`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
@@ -104,7 +104,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 48`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
-- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 63`
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 64`
 
 ### 🦀 CLI, Packages, and Userscripts
 
