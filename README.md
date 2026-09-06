@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1038-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1044-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -76,9 +76,9 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 275`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 153`
-- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 45`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 279`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 154`
+- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 46`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 9`
