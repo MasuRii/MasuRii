@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1078-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1079-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -108,7 +108,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 ### 🦀 CLI, Packages, and Userscripts
 
-- 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe) `⭐ 3`
+- 📦 **[RustDupe](https://github.com/MasuRii/RustDupe)** - Duplicate file finder in Rust. [crates.io](https://crates.io/crates/rustdupe) `⭐ 4`
 - 🖼️ **[wtr-lab-novel-image-generator](https://github.com/MasuRii/wtr-lab-novel-image-generator)** - AI image generation userscript with style presets. [Install](https://greasyfork.org/en/scripts/553073-wtr-lab-novel-image-generator) `⭐ 6`
 - 📝 **[wtr-lab-novel-reviewer](https://github.com/MasuRii/wtr-lab-novel-reviewer)** - Chapter review and rating userscript. [Install](https://greasyfork.org/en/scripts/555556-wtr-lab-novel-reviewer) `⭐ 2`
 - 🔁 **[wtr-lab-term-replacer](https://github.com/MasuRii/wtr-lab-term-replacer)** - Modular term replacement userscript with Webpack pipeline.
