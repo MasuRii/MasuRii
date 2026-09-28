@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1103-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1105-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -77,12 +77,12 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🧩 Pi Extensions
 
 - 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 293`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 167`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 168`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 48`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 12`
-- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 275`
+- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 276`
 - 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls. `⭐ 7`
 - 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering. `⭐ 6`
 
@@ -129,6 +129,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔹 **[RecursiveDev/Pasahe](https://github.com/RecursiveDev/Pasahe)** - PR contributions (`7 PRs`, `7 merged`). [Pull Requests](https://github.com/RecursiveDev/Pasahe/pulls?q=author%3AMasuRii)
 - 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`14 PRs`, `6 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
+- 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
 - 🔹 **[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/microsoft/winget-pkgs/pulls?q=author%3AMasuRii)
