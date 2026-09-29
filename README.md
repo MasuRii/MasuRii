@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1105-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1106-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -78,7 +78,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 293`
 - 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 168`
-- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 48`
+- 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 49`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 12`
@@ -89,7 +89,7 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🧩 OpenCode Plugins
 
 - 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 75`
-- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 44`
+- 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 45`
 
 ### 🎨 Website Templates
 
@@ -104,7 +104,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 52`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
-- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 68`
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 67`
 
 ### 🦀 CLI, Packages, and Userscripts
 
@@ -129,7 +129,6 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔹 **[RecursiveDev/Pasahe](https://github.com/RecursiveDev/Pasahe)** - PR contributions (`7 PRs`, `7 merged`). [Pull Requests](https://github.com/RecursiveDev/Pasahe/pulls?q=author%3AMasuRii)
 - 🔹 **[Mirrowel/LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy)** - PR contributions (`14 PRs`, `6 merged`). [Pull Requests](https://github.com/Mirrowel/LLM-API-Key-Proxy/pulls?q=author%3AMasuRii)
-- 🔹 **[shuv1337/openralph](https://github.com/shuv1337/openralph)** - PR contributions (`7 PRs`, `6 merged`). [Pull Requests](https://github.com/shuv1337/openralph/pulls?q=author%3AMasuRii)
 - 🔹 **[awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/awesome-opencode/awesome-opencode/pulls?q=author%3AMasuRii)
 - 🔹 **[DedInc/gamma-ai-watermark-remover](https://github.com/DedInc/gamma-ai-watermark-remover)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/DedInc/gamma-ai-watermark-remover/pulls?q=author%3AMasuRii)
 - 🔹 **[microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)** - PR contributions (`1 PR`, `1 merged`). [Pull Requests](https://github.com/microsoft/winget-pkgs/pulls?q=author%3AMasuRii)
