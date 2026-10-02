@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1114-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1120-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -82,29 +82,29 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 12`
-- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 279`
+- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 278`
 - 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls. `⭐ 7`
 - 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering. `⭐ 6`
 
 ### 🧩 OpenCode Plugins
 
-- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 75`
+- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 76`
 - 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 45`
 
 ### 🎨 Website Templates
 
-- 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/)
-- 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/) `⭐ 2`
-- 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/)
+- 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/) `⭐ 2`
+- 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/) `⭐ 3`
+- 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/) `⭐ 2`
 - 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 7`
-- ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/)
-- 💼 **[ModernSaaS-LandingPage-Template](https://github.com/MasuRii/ModernSaaS-LandingPage-Template)** - SaaS landing page template with responsive sections and clean conversion flow. [Live](https://masurii.github.io/ModernSaaS-LandingPage-Template/)
+- ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/) `⭐ 2`
+- 💼 **[ModernSaaS-LandingPage-Template](https://github.com/MasuRii/ModernSaaS-LandingPage-Template)** - SaaS landing page template with responsive sections and clean conversion flow. [Live](https://masurii.github.io/ModernSaaS-LandingPage-Template/) `⭐ 2`
 
 ### 🤖 AI/LLM, Automation, and Tooling
 
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 53`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
-- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 69`
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 70`
 
 ### 🦀 CLI, Packages, and Userscripts
 
