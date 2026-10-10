@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1125-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1126-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -104,7 +104,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 53`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
-- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 71`
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 72`
 
 ### 🦀 CLI, Packages, and Userscripts
 
