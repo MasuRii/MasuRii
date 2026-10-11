@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1126-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1132-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -72,23 +72,23 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🧾 **[TrustGuard](https://github.com/MasuRii/TrustGuard)** - Offline-first Flutter expense and settlement ledger for shared groups.
 - 🚌 **[Pasahe](https://github.com/RecursiveDev/Pasahe)** - Fare estimation app for Philippine transport routes with offline support.
 - 🛍️ **[Luv-Charms-E-commerce](https://github.com/MasuRii/Luv-Charms-E-commerce)** - Next.js storefront with Messenger checkout flow. [Live](https://luvcharms.masurii.dev)
-- 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://citcoursebuilder.masurii.dev) `⭐ 2`
+- 📅 **[CITUCourseBuilder](https://github.com/MasuRii/CITUCourseBuilder)** - Course and schedule planner for CIT-U students. [Live](https://citcoursebuilder.masurii.dev) `⭐ 3`
 
 ### 🧩 Pi Extensions
 
-- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 295`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 171`
+- 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 296`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 172`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 49`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 12`
-- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 278`
+- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 279`
 - 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls. `⭐ 7`
 - 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering. `⭐ 6`
 
 ### 🧩 OpenCode Plugins
 
-- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 76`
+- 🔊 **[opencode-smart-voice-notify](https://github.com/MasuRii/opencode-smart-voice-notify)** - Smart voice notification plugin for OpenCode with multi-engine TTS and reminder workflows. `⭐ 77`
 - 🎮 **[opencode-godot-lsp](https://github.com/MasuRii/opencode-godot-lsp)** - GDScript LSP bridge that enables Godot language server support in OpenCode CLI. `⭐ 46`
 
 ### 🎨 Website Templates
