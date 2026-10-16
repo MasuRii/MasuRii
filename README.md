@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1136-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1139-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -77,12 +77,12 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🧩 Pi Extensions
 
 - 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 296`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 172`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 173`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 50`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 11`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 6`
 - 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 12`
-- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 280`
+- ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 281`
 - 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls. `⭐ 7`
 - 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering. `⭐ 6`
 
@@ -96,7 +96,7 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/) `⭐ 2`
 - 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/) `⭐ 3`
 - 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/) `⭐ 2`
-- 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 7`
+- 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 8`
 - ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/) `⭐ 2`
 - 💼 **[ModernSaaS-LandingPage-Template](https://github.com/MasuRii/ModernSaaS-LandingPage-Template)** - SaaS landing page template with responsive sections and clean conversion flow. [Live](https://masurii.github.io/ModernSaaS-LandingPage-Template/) `⭐ 2`
 
