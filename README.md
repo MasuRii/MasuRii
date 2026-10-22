@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1143-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1144-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -115,7 +115,7 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🔎 **[wtr-term-inconsistency-finder](https://github.com/MasuRii/wtr-term-inconsistency-finder)** - Translation inconsistency checker using Gemini AI. [Install](https://greasyfork.org/en/scripts/554989-wtr-lab-term-inconsistency-finder)
 - ✨ **[wtr-lab-enhancer](https://github.com/MasuRii/wtr-lab-enhancer)** - Reading UX enhancement userscript for WTR Lab. [Install](https://greasyfork.org/en/scripts/552944-wtr-lab-reader-ui-enhancer) `⭐ 2`
 - 🧹 **[wtr-lab-delulu-destroyer](https://github.com/MasuRii/wtr-lab-delulu-destroyer)** - Lightweight Tampermonkey userscript for filtering WTR Lab novels by genre, tag, and keyword.
-- 🔍 **[wtr-lab-stalker](https://github.com/MasuRii/wtr-lab-stalker)** - Logo-activated WTR Lab userscript for searching user profiles from the navbar.
+- 🔍 **[wtr-lab-stalker](https://github.com/MasuRii/wtr-lab-stalker)** - Logo-activated WTR Lab userscript for searching user profiles from the navbar. `⭐ 2`
 
 ### 📚 Academic Builds
 
