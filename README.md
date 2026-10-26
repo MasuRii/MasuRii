@@ -104,7 +104,7 @@ I build practical tools that solve real problems—public transport fare calcula
 
 - 🔌 **[AIstudioProxyAPI-EN](https://github.com/MasuRii/AIstudioProxyAPI-EN)** - OpenAI-compatible proxy for Google AI Studio built with FastAPI. `⭐ 56`
 - 🧠 **[MasuSenseiBotV3-Agent](https://github.com/MasuRii/MasuSenseiBotV3-Agent)** - AI mentorship bot pipeline for automated PR review workflows.
-- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 72`
+- 🌐 **[FBScrapeIdeas](https://github.com/MasuRii/FBScrapeIdeas)** - Facebook group scraper with AI-powered categorization pipeline. `⭐ 73`
 
 ### 🦀 CLI, Packages, and Userscripts
 
