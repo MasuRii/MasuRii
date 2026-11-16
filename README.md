@@ -77,7 +77,7 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🧩 Pi Extensions
 
 - 🧰 **[pi-tool-display](https://github.com/MasuRii/pi-tool-display)** - OpenCode-style tool output rendering for Pi coding agent (Pi extension, TUI, MCP-aware, RTK-aware). `⭐ 307`
-- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 175`
+- 🔐 **[pi-permission-system](https://github.com/MasuRii/pi-permission-system)** - Permission enforcement extension for the Pi coding agent. `⭐ 174`
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 53`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 12`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 5`
@@ -94,7 +94,7 @@ I build practical tools that solve real problems—public transport fare calcula
 ### 🎨 Website Templates
 
 - 🎓 **[education-website-template](https://github.com/MasuRii/education-website-template)** - Education platform template using Next.js, TypeScript, and Velite MDX. [Live](https://masurii.github.io/education-website-template/) `⭐ 2`
-- 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/) `⭐ 3`
+- 📸 **[modernphotography-portfolio-template](https://github.com/MasuRii/modernphotography-portfolio-template)** - Astro + Tailwind photography portfolio with gallery and lightbox. [Live](https://masurii.github.io/modernphotography-portfolio-template/) `⭐ 4`
 - 👨‍💻 **[dev-portfolio-template](https://github.com/MasuRii/dev-portfolio-template)** - Developer portfolio template with Astro, React, and Tailwind. [Live](https://masurii.github.io/dev-portfolio-template/) `⭐ 2`
 - 🍽️ **[restaurant-website-template](https://github.com/MasuRii/restaurant-website-template)** - Accessible, SEO-ready restaurant template with Astro and React. [Live](https://masurii.github.io/restaurant-website-template/) `⭐ 8`
 - ✈️ **[travelblog-website-template](https://github.com/MasuRii/travelblog-website-template)** - Travel blog template built with Astro and Tailwind CSS. [Live](https://masurii.github.io/travelblog-website-template/) `⭐ 2`
