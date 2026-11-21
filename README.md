@@ -17,7 +17,7 @@
 <!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/MasuRii">
-    <img src="https://img.shields.io/badge/Total%20Stars-1167-facc15?style=social&logo=github" alt="Total GitHub stars" />
+    <img src="https://img.shields.io/badge/Total%20Stars-1168-facc15?style=social&logo=github" alt="Total GitHub stars" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=masurii&label=Profile%20Views&color=667eea&style=flat" alt="Profile views" />
@@ -81,7 +81,7 @@ I build practical tools that solve real problems—public transport fare calcula
 - 🖼️ **[pi-image-tools](https://github.com/MasuRii/pi-image-tools)** - Image attachment and rendering extension for Pi TUI. `⭐ 54`
 - 🔊 **[pi-smart-voice-notify](https://github.com/MasuRii/pi-smart-voice-notify)** - Cross-platform smart voice, sound, and desktop notifications for Pi coding agent. `⭐ 12`
 - 📐 **[pi-must-have-extension](https://github.com/MasuRii/pi-must-have-extension)** - RFC 2119/8174 keyword normalizer extension for Pi coding agent. `⭐ 5`
-- 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 13`
+- 🔑 **[pi-multi-auth](https://github.com/MasuRii/pi-multi-auth)** - Pi extension for multi-provider credential management, OAuth login, and account rotation. `⭐ 14`
 - ⚡ **[pi-rtk-optimizer](https://github.com/MasuRii/pi-rtk-optimizer)** - Pi extension for RTK command rewriting and tool-output compaction optimization. `⭐ 288`
 - 🙈 **[pi-hide-messages](https://github.com/MasuRii/pi-hide-messages)** - Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls. `⭐ 7`
 - 🔀 **[pi-agent-router](https://github.com/MasuRii/pi-agent-router)** - Pi extension for agent routing, active agent management, and subagent delegation rendering. `⭐ 7`
